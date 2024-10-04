@@ -62,7 +62,7 @@ ul {
 .links ul .home {
   color: #f21c51;
 }
-/* changes in here */
+/* changes in heress */
 .header-sec {
   height: 100vh;
   background: rgba(0, 0, 0, 0.6) url("../imgs/hero.jpg") no-repeat center
@@ -525,6 +525,6 @@ button {
   color: #fff; 
   font-size: 14px;
 }
-footer span {
+.footer-sec span {
   color: #f21c51; 
 }
