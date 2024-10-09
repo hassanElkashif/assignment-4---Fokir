@@ -68,7 +68,7 @@ ul {
 }
 .header-sec {
   height: 100vh;
-  background: rgba(0, 0, 0, 0.6) url("../imgs/hero.jpg") no-repeat center
+  background: rgba(0, 0, 0, 0.6) URL("../imgs/hero.jpg") no-repeat center
     center/cover;
   background-blend-mode: multiply;
 }
